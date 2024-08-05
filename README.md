@@ -1,2 +1,5 @@
 # Convertisseur
-It's an HTML page where an money converter can show to the user the conversion between different currency (dollar, euro and pound).
+It's an HTML page where the user can convert Euro to Dollar USD, Yen or Pound.
+
+# Demo
+![Convertisseur-de-monnaies](https://github.com/user-attachments/assets/72ac8a4a-7087-4ea8-98a9-4599bd700ae4)
